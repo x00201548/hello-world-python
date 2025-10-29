@@ -7,7 +7,7 @@ if __name__ == '__main__':
 def hello():
     return 'Hello, CI World!'
 
-    def hello():
+def hello():
     return "Hello, CI World!"
 
 def add(a, b):
